@@ -1,5 +1,7 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 # Awesome Cape
-Your guide to an awesome time in Cape Girardeau county.
+> Your guide to an awesome time in Cape Girardeau county.
+
 
 # Places of Interest
 | Name | Description |
