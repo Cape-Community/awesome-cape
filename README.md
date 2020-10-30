@@ -2,7 +2,6 @@
 # Awesome Cape
 > Your guide to an awesome time in Cape Girardeau county.
 
-
 # Places of Interest
 | Name | Description |
 | :---------- | :---------- |
@@ -14,12 +13,16 @@
 | :---------- | :---------- |
 | [Jackson Food Truck Rally](https://www.facebook.com/JFTRally/) | Every Wednesday evening the trucks come rolling into Jackson with a variety of flavors for every palette. Street tacos, pulled pork, burgers, pizza, and more. There's something for everybody. |
 
+### Want to find more information about the latest happenings for the area?
+- [visitcape](https://www.visitcape.com/events/) - lists events for Cape Girardeau
+- [The Scout](https://thescout.io/) - a newsletter for the rural midwest
+
 # Restaurants
 
 ## BBQ
 | Name | Description |
 | :---------- | :---------- |
-| [Mary Jane Bourbon + Smokehouse](https://www.mjbsmokehouse.com/) | A small local hipster environment with the best grub you can get your hands on. Housemade sauces, Colorado Chili, Brontosaurus Beef Rib, Yardbird, Brisket Sammy... no matter what you get, your taste buds will collectively thank you.
+| [Mary Jane Bourbon + Smokehouse](https://www.mjbsmokehouse.com/) | A small local hipster environment with the best grub you can get your hands on. Housemade sauces, Colorado Chili, Brontosaurus Beef Rib, Yardbird, Brisket Sammy... no matter what you get, your taste buds will collectively thank you. |
 
 ## Dessert
 | Name | Description |
