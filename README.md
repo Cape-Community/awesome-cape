@@ -7,6 +7,12 @@
 | Name | Description |
 | :---------- | :---------- |
 | [Bollinger Mill State Historic Site](https://mostateparks.com/park/bollinger-mill-state-historic-site) | This historic park features a four story mill that dates back to the Civil War, scenic picnic areas, as well as the iconic Burfordsville Covered Bridge. Be sure to pack a lunch basket, and your favorite camera. |
+| [Missouri Wall of Fame](https://en.wikipedia.org/wiki/Missouri_Wall_of_Fame) | A must-see attraction for any visitor to the area. This 500 ft wall runs along the Mississippi River and features several murals depicting famous figures that are home-grown to the state of Missouri. |
+
+# Events
+| Name | Description |
+| :---------- | :---------- |
+| [Jackson Food Truck Rally](https://www.facebook.com/JFTRally/) | Every Wednesday evening the trucks come rolling into Jackson with a variety of flavors for every palette. Street tacos, pulled pork, burgers, pizza, and more. There's something for everybody. |
 
 # Restaurants
 
