@@ -7,6 +7,7 @@
 | :---------- | :---------- |
 | [Bollinger Mill State Historic Site](https://mostateparks.com/park/bollinger-mill-state-historic-site) | This historic park features a four story mill that dates back to the Civil War, scenic picnic areas, as well as the iconic Burfordsville Covered Bridge. Be sure to pack a lunch basket, and your favorite camera. |
 | [Missouri Wall of Fame](https://en.wikipedia.org/wiki/Missouri_Wall_of_Fame) | A must-see attraction for any visitor to the area. This 500 ft wall runs along the Mississippi River and features several murals depicting famous figures that are home-grown to the state of Missouri. |
+| [Rock'n'Roll Drive-in Theater](https://www.rocknrolldrivein.com/) | Grab your friends and drive right up to this theater. This drive-in hosts a modern outdoor screen and sound system with a retro vibe, as well as food trucks to satisfy your cravings. Be sure to check their schedule for concerts and other events as well. |
 
 # Events
 | Name | Description |
@@ -19,6 +20,12 @@
 
 # Restaurants
 
+## Asian
+| Name | Description |
+| :---------- | :---------- |
+| [Rice Noodle Cai](https://www.facebook.com/Rice-Noodle-Cai-494212094093374/) | This local mom and pop shop has great Chinese food offered at a great value. Their trademark crispy and flaky honey chicken is a must try for any foodie out there. |
+
+
 ## BBQ
 | Name | Description |
 | :---------- | :---------- |
@@ -27,4 +34,5 @@
 ## Dessert
 | Name | Description |
 | :---------- | :---------- |
-| Cape's Cream of the Crust | Ice cream parlor that only uses locally sourced ingredients. Fresh handmade waffle cones, creamy and rich classics as well as fruity seasonal flavors make their way onto the roster at this retro shop. |
+| [Bubble Crush Tea Studio](https://www.facebook.com/BubbleCrushTeaStudio/) | The only boba tea shop located between St. Louis and Memphis. Their unique branding makes for some good photos, and the large variety of exquisite teas will leave you wanting to come back to tackle more of the menu. |
+| [Cape's Cream of the Crust](https://restaurantguru.com/Capes-Cream-of-the-Crust-Cape-Girardeau) | Ice cream parlor that only uses locally sourced ingredients. Fresh handmade waffle cones, creamy and rich classics as well as fruity seasonal flavors make their way onto the roster at this retro shop. |
